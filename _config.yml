@@ -1,30 +1,26 @@
-# # # # # # # # # # # # #
-#   K i k o - p l u s   #
-# # # # # # # # # # # # #
-
 # Basic
-name:               "Kiko Plus"
+name:               "/thoth"
 
 author:
-  facebook:         your-id
-  youtubeUser:      your-id
-  youtubeChannel:   your-id
-  twitter:          your-id
-  github:           your-id
-  stackoverflow:    your-id
-  quora:            your-id
-  linkedin:         your-id
-  pinterest:        your-id
-  googlePlus:       your-id
-  instagram:        your-id
-  reddit:           your-id
+  #facebook:         your-id
+  #youtubeUser:      your-id
+  #youtubeChannel:   your-id
+  twitter:          prato_s
+  github:           pratos
+  #stackoverflow:    your-id
+  #quora:            your-id
+  linkedin:         prathamesh-sarang-392b9219
+  #pinterest:        your-id
+  #googlePlus:       your-id
+  #instagram:        your-id
+  #reddit:           your-id
   medium:           your-id
-  tumblr:           your-id
-  email:            your-id@your-email.com
+  #tumblr:           your-id
+  email:            pratham.sarang9@gmail.com
 
 copyright:
   year:             2017
-  name:             Kiko
+  name:             Prathamesh
 
 # Google-analytics
 google-analytics:
@@ -35,13 +31,13 @@ disqus:
   id:               "kiko-plus"
 
 # URL
-url:                "https://AWEEKJ.github.io" # the base hostname & protocol for your site
+url:                "https://pratos.github.io" # the base hostname & protocol for your site
 # url:                "http://localhost:4000" # use this url when you develop
-baseurl:            "/Kiko-plus" # the subpath of your site, e.g. /blog
+baseurl:            "/blog" # the subpath of your site, e.g. /blog
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:           Asia/Seoul
+timezone:           Asia/Kolkata
 permalink:          /:year-:month-:day/:title/
 
 # Pagination
@@ -55,14 +51,14 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "About"
-    url:            "/about"
-  - name:           "Archive"
-    url:            "/archive"
-  - name:           "Tags"
-    url:            "/tags"
-  - name:           "Github"
-    url:            "https://github.com/AWEEKJ/Kiko-plus"
+- title: About
+  url: /about
+- title: Activities
+  url: /activities
+- title: Archives
+  url: /writing
+- title: Bookmarks
+  url: /reading
 
 # Sass
 sass:
