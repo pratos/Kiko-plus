@@ -14,7 +14,7 @@ author:
   #googlePlus:       your-id
   #instagram:        your-id
   #reddit:           your-id
-  medium:           your-id
+  medium:           prato_s
   #tumblr:           your-id
   email:            pratham.sarang9@gmail.com
 
@@ -24,11 +24,11 @@ copyright:
 
 # Google-analytics
 google-analytics:
-  id:               ""
+  id:               "UA-90835968-1"
 
 # Disqus
 disqus:
-  id:               "kiko-plus"
+  id:               "thoth-1"
 
 # URL
 url:                "https://pratos.github.io" # the base hostname & protocol for your site
@@ -50,7 +50,7 @@ kramdown:
   input:            GFM
 
 # Navigation
-nav:
+navigation:
 - title: About
   url: /about
 - title: Activities
