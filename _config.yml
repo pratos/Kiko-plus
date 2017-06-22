@@ -59,6 +59,8 @@ nav:
     url:            "/writing"
   - name:           "Bookmarks"
     url:            "/reading"
+  - name:           "Comics"
+    url:            "/comics"
 
 # Sass
 sass:
