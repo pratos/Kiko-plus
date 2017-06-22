@@ -50,15 +50,15 @@ kramdown:
   input:            GFM
 
 # Navigation
-navigation:
-- title: About
-  url: /about
-- title: Activities
-  url: /activities
-- title: Archives
-  url: /writing
-- title: Bookmarks
-  url: /reading
+nav:
+  - name:           "About"
+    url:            "/about"
+  - name:           "Activities"
+    url:            "/activities"
+  - name:           "Archive"
+    url:            "/writing"
+  - name:           "Bookmarks"
+    url:            "/reading"
 
 # Sass
 sass:
