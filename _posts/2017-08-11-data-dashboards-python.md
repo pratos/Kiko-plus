@@ -11,6 +11,8 @@ All my the Data Science enthusiasts would agree on the fact that: __Data Visuali
 
 <div align = "center"><img src="http://www.theswarmlab.com/img/portfolio/shiny.png" height="400px;" width="470px;"/></div>
 
+__R__ rules in the Data Visualization space, to make those plots more user friendly, we have __RShiny__. Hands-down the best tool to do exploratory data analysis.
+
 But there's still a catch here, __RShiny__ is still unintuitive for someone not familiar with __HTML,CSS especially Bootstrap__. With the __reactive programming__ concept, mastering RShiny is a difficult task. Plus, the packaging and using it in for a production environment (and expectations of clients for __RShiny__ to be a good looking interface) makes it difficult. __RStudio's offering, RShiny Server__ is a good choice, but to purchase the enteprise version a small startup may have to rent their existing rented workspace ([RStudio Pricing](https://www.rstudio.com/pricing/)). There's a free version too, but again setup headaches.
 
 ### Popular Visualization Tools, mainstream...
