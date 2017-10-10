@@ -17,7 +17,7 @@ Personally, I am the guy who does not talk in a room full of people. I eat Medu-
 
 But apply it for food...mostly coz I work till late, sleep less & always happen to miss my bus. Breakfast choices are where I limit myself. 
 
-I'll be reachable at <b style="text-decoration: none; color:#0c556b; hover:black;">pratham[dot]sarang9[at]gmail[dot]com.</b>
+I'll be reachable at <b style="text-decoration: none; color:#0c556b; hover:black;">mail[at]pratos[dot]in.</b>
 
 ***
 
