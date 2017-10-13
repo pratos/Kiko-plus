@@ -4,7 +4,7 @@ published: true
 title: DataViz Dashboards using Python, the Resources 
 ---
 
-All my the Data Science enthusiasts would agree on the fact that: __Data Visualization using Python is hard!__. We'll look at some means via which we can do data visualization & dashboards.
+All the Data Science enthusiasts would agree on the fact that: __Data Visualization using Python is hard!__. We'll look at some means via which we can do data visualization & dashboards.
 
 ### RShiny, oh my precious!
 ***
