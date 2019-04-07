@@ -1,11 +1,11 @@
 # Basic
-name:               "prathamesh"
+name:               "Prathamesh Sarang"
 
 author:
   #facebook:         your-id
   #youtubeUser:      your-id
   #youtubeChannel:   your-id
-  twitter:          prthmshs
+  twitter:          prat0s
   github:           pratos
   #stackoverflow:    your-id
   #quora:            your-id
@@ -19,7 +19,7 @@ author:
   email:            pratham.sarang9@gmail.com
 
 copyright:
-  year:             2017
+  year:             2019
   name:             Prathamesh
 
 # Google-analytics
@@ -53,14 +53,14 @@ kramdown:
 nav:
   - name:           "About"
     url:            "/about"
-  - name:           "Activities"
-    url:            "/activities"
+  - name:           "Speaking"
+    url:            "/speaking"
   - name:           "Archive"
-    url:            "/writing"
-  - name:           "Bookmarks"
-    url:            "/reading"
-  - name:           "Comics"
-    url:            "/comics"
+    url:            "/archive"
+  - name:           "Current Reads"
+    url:            "/current-reads"
+  - name:           "Observations"
+    url:            "/observations"
 
 # Sass
 sass:
