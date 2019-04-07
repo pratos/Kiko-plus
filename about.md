@@ -3,21 +3,23 @@ layout: page
 title: About
 ---
 
-I'm Prathamesh and thanks for reading my blog. This blog is a collection of all the exciting things and learnings from daily activities at [Office](https://www.linkedin.com/company-beta/3607025/) and home. 
-
-<div align="center"><img src="https://media.giphy.com/media/ZbUIRN1gI5ySc/giphy.gif" /></div>
-
-The origins for majority of my blog posts are a way to keep track of the crazy polygotish things that I get myself involved with, mostly scribbling them in Markdown on Jupyter notebooks or Sublime Text Editor.
-
-Professionally, I work as a Machine Learning Engineer (psst...not my actual job title). Apart from making Machine Learning models production ready & working with cloud platforms(Google Cloud Platform & Microsoft Azure), I maintain sanity among the chaos of R & Python code written by my colleagues. 
-
-Personally, I am the guy who does not talk in a room full of people. I eat Medu-wada Sambar for breakfast daily taking inspiration from Mark Zuckerberg's clothing quote:
-
->In his first public Q&A at Facebook's HQ last night, Zuckerberg revealed he wears the same clothes over and over again because he wants to limit the time he spends making "frivolous" decisions so he can concentrate on real work.
-
-But apply it for food...mostly coz I work till late, sleep less & always happen to miss my bus. Breakfast choices are where I limit myself. 
-
-I'll be reachable at <b style="text-decoration: none; color:#0c556b; hover:black;">mail[at]pratos[dot]in.</b>
-
-***
-
+<h1>Hi people, I'm <font color="">Prathamesh Sarang</font></h1>
+<br/>
+<p>This is a small "my" space in the vast expanse of the Internet, I blog about technology (mostly Data Science). The origins for majority of my blog posts are a way to keep track of all the things that I get myself involved with, mostly scribbling them in various medium.</p>
+<p>Professionally, I'm a Machine Learning Engineer working at Difference Engine AI with glee!</p>
+<p></p>
+<br/>
+<div>
+    <img src="https://media.giphy.com/media/ZbUIRN1gI5ySc/giphy.gif" />
+</div>
+<br/>
+<p>My personal interests takes me to read, listen on subjects like Technology, History, Horror, Supernatural, True Crime Fiction and Food.</p>
+<p>Ardent recommender of podcast consumption, hear till it is still free folks!</p>
+<br/>
+<img src="https://www.process.st/wp-content/uploads/2016/12/how-to-read-more-reading-gif.gif" />
+<br/>
+<p>Long time suffering football fan + Arsenal. Used to be a regular bowling fixture (thanks Infosys Mysore!) and Table Tennis noob.</p>
+<br/>
+<div>
+    <img src="https://i.gifer.com/NpCU.gif" ></img>
+</div>

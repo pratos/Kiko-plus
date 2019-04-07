@@ -3,7 +3,7 @@ layout: page
 title: Comics & Sketches
 ---
 
-Inspiration can come from a lot of places 
+<h3>Inspiration can come from a lot of places</h3>
 
 #### Unboxing
 <div align="center"><img src="https://raw.githubusercontent.com/pratos/pratos.github.io/master/images/comics/photo_2017-10-13_12-01-29.jpg" height="500px;" width="600px;" /></div>
